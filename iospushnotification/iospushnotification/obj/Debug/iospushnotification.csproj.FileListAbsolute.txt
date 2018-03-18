@@ -32,6 +32,8 @@ E:\git hub project\My git hub projects\iospushnotification\iospushnotification\i
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Microsoft.Web.Infrastructure.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Newtonsoft.Json.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Owin.dll
+E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\PushSharp.Apple.dll
+E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\PushSharp.Core.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.Helpers.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.Mvc.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.Optimization.dll
@@ -41,6 +43,7 @@ E:\git hub project\My git hub projects\iospushnotification\iospushnotification\i
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.WebPages.Razor.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\WebGrease.dll
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Newtonsoft.Json.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.Helpers.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.Mvc.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.Optimization.xml
@@ -49,7 +52,6 @@ E:\git hub project\My git hub projects\iospushnotification\iospushnotification\i
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.WebPages.Deployment.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\System.Web.WebPages.Razor.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Antlr3.Runtime.pdb
-E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Newtonsoft.Json.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\EntityFramework.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\EntityFramework.SqlServer.xml
 E:\git hub project\My git hub projects\iospushnotification\iospushnotification\iospushnotification\iospushnotification\bin\Microsoft.AspNet.Identity.Core.xml

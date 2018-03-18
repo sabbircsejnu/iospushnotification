@@ -25,6 +25,10 @@
         </div>
     </div>
     <div class="container body-content">
+        @if(ViewBag.Message != null)
+        {
+            <p>@ViewBag.Message</p>
+        }
         @RenderBody()
         <hr />
         <footer>
